@@ -2,6 +2,8 @@
 
 A Fallout-inspired rEFInd theme.
 
+this screenshot is simulated (badly), im laaazy
+
 ![](screenshot.png)
 
 ## Installation
